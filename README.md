@@ -1,63 +1,49 @@
-# Israel Oliver
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
 
-**`Desenvolvedor Front-End`**
+<br>
 
-Me chamo Israel, tenho 22 anos e sou desenvolvedor Front-End. Sou apaixonado por tecnologia e pelo desenvolvimento de interfaces modernas, responsivas e focadas na melhor experiência do usuário. Estou sempre buscando evoluir minhas habilidades em HTML, CSS, JavaScript e frameworks do ecossistema Front-End, criando projetos práticos e explorando novas tendências do desenvolvimento web.
+<div align="center">
+  <img align="center" height="150" src="#" />
+</div>
 
-<p>
-    <a href="https://github.com/IsraelOlivers?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/IsraelOlivers?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/IsraelOlivers?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/IsraelOlivers?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div align="center">
+  
+  <samp>
+      <br>
+      Olá sou <b>Israel Oliver</b>
+  </samp>
+</div>
 
----
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=Eu+sou+do+Brazil;Sou+Estudante+de+Desenvolvedor+de+Sites;Eu+sou+Designer;Bem+Vindo!;" alt="Typing SVG"/>
+</div>
 
-### 🤖 Linguagens e Tecnologias
+<br>
+      
+<div align="center">
+  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=israelolivers&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=0d1117">
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelolivers&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=israelolivers&theme=zenburn"/>
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  
+</div>
 
-<br/>
-<br/>
 
-### 📊 Estatísticas
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=123845" /></p> 
+</div>
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=israeloliver&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israeloliver&layout=compact&theme=tokyonight" />
-</p>
+<br>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
